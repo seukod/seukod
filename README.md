@@ -1,42 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Francisco%20Contreras&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Game%20Release%20Operations%20%7C%20Scrum%20Master%20%7C%20Unity%20Level%20Designer&descSize=16&descAlignY=62" />
+# Francisco Contreras · seukod
 
-Focused on game release pipelines, team coordination, and taking indie projects from development to deployment on Steam.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=60&amp;lines=Game+releases+%26+team+coordination;Unity+level+design;Currently+exploring+marimo+%2B+Python" alt="Game releases and team coordination. Unity level design. Currently exploring marimo and Python." width="650" />
 
-<a href="https://github.com/seukod"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- Add more badges here: LinkedIn, itch.io, email, etc. -->
-<!-- <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+**Game development · Release operations · Data visualization**
+
+[![GitHub](https://img.shields.io/badge/GitHub-seukod-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/seukod)
+[![marimo](https://img.shields.io/badge/Exploring-marimo-00FF41?style=for-the-badge&labelColor=0D1117)](https://marimo.io/)
 
 </div>
 
 ---
 
-### 🚀 What I Do
+## 🐱 About me
 
-- 🎮 **Game Release & Deployment** — Managing Steamworks configurations, depot packaging, and automated releases via SteamCMD.
-- 📋 **Agile & Team Coordination** — Facilitating sprints, tracking deliverables, and streamlining workflows as a **Scrum Master**.
-- 🛠️ **Unity Level Design** — Grayboxing environments, spatial layout, and scene building in **Unity**.
-- ⚙️ **Scripting & Tooling** — Automating development tasks and configuring workflows across environments.
+I'm Francisco, also known as **seukod**. I work on game release workflows, team coordination, and level design in Unity — helping indie projects move from development to players on Steam.
 
-### 🧰 Stack
+I'm also exploring **data visualization with [marimo](https://marimo.io/)**. In **[AcusPy](https://github.com/seukod/AcusPy)**, I'm benchmarking the Basic Pitch model and working on visualizations to explore the results.
 
-<div align="center">
+Outside of code, I enjoy video games, playing guitar, and classic rock.
 
-<img src="https://skillicons.dev/icons?i=unity,py,cpp,git,bash,linux,apple,inkscape" />
+## ⚔️ `> cat inventory.txt`
 
-</div>
+| Area | What I do |
+| :--- | :--- |
+| 🎮 Game releases | Steamworks configuration, depot packaging, and release automation with SteamCMD. |
+| 📋 Team coordination | Sprint planning, tracking deliverables, and facilitating Scrum workflows. |
+| 🛠️ Level design | Grayboxing, spatial layouts, and scene building in Unity. |
+| ⚙️ Scripting & tooling | Automating development tasks and configuring workflows. |
+| 📊 Data visualization | Exploring benchmark results with marimo and Python in AcusPy. |
 
-**Methodologies:** Scrum · Sprint Planning · Agile Delivery
+### Tools & technologies
 
-### ⚡ Interests
+**Currently using** · Unity and Git
 
-- 🎮 Playing video games and exploring mechanics across different genres.
-- 🎸 Playing guitar and enjoying classic rock & diverse music styles.
-- 🚀 The indie game development lifecycle and shipping builds to players.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,git&amp;theme=dark" alt="Currently using: Unity and Git" />
+</p>
+
+**Currently learning** · Python, Node.js, and marimo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,nodejs&amp;theme=dark" alt="Currently learning: Python and Node.js" />
+  <a href="https://marimo.io/"><img src="https://img.shields.io/badge/Learning-marimo-00FF41?style=for-the-badge&amp;labelColor=0D1117" alt="Currently learning: marimo" /></a>
+</p>
+
+I'm developing my Python and marimo skills through **AcusPy**, and I've used **Node.js** in **Corte**, where I'm still building experience.
+
+**Also used** · C#, PostgreSQL, Linux, Docker, and VS Code
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,postgres,linux,docker,vscode&amp;theme=dark" alt="Also used: C#, PostgreSQL, Linux, Docker, and VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Steamworks-171A21?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steamworks" />
+  <img src="https://img.shields.io/badge/SteamCMD-171A21?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="SteamCMD" />
+  <img src="https://img.shields.io/badge/Scrum-00F0FF?style=for-the-badge&amp;labelColor=0D1117" alt="Scrum" />
+</p>
+
+## 🧪 `> open projects/AcusPy`
+
+### [AcusPy](https://github.com/seukod/AcusPy)
+
+An ongoing project where I'm **benchmarking Basic Pitch** and exploring **data visualization with marimo**.
+
+**My focus:** evaluating the model and making the benchmark results easier to inspect through visualizations.
+
+## 🎯 `> cat current_quests.log`
+
+```text
+[FOCUS]     Game release workflows and team coordination
+[CREATE]    Levels and environments in Unity
+[BUILD]     AcusPy: Basic Pitch benchmarks and data visualizations
+[EXPLORE]   marimo for interactive data visualization
+[PLAY]      Discovering game mechanics across different genres
+```
+
+## 📡 `> ping --connect`
+
+Find me on **[GitHub @seukod](https://github.com/seukod)**.
 
 ---
 
 <div align="center">
 
+**INSERT COIN TO CONTINUE 🪙**
+
 </div>
+
+<p align="center"><sub>Francisco Contreras · Adapted from the <a href="https://www.gitskins.com/readme-generator?template=community-night-shift-zckz">Night Shift</a> template by <a href="https://www.gitskins.com/creators/Avijit010325">@Avijit010325</a> · <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
